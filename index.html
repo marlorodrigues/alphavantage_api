@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <title>Control</title>
+
+    <div>
+        <form id="formulario">
+            <label>Ativo</label>
+            <input type="search" id="stockName" placeholder="Ex. AAPL" value="aapl">
+            <br>
+            <label>Tempo</label>
+            <input type="search" id="stockTime" placeholder="Ex. 5 min" value="5">
+            <br>
+            <label>Variacao</label>
+            <input type="search" id="stockDataInterval" placeholder="Ex. Diario" value="diario">
+            <br>
+            <button type="button" onclick="search()" value="Enviar">Pesquisar</button>
+        </form>
+    </div>
+
+    <div id="final_result">
+        <ul id="results">
+
+        </ul>
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+
+</body>
+
+</html>
