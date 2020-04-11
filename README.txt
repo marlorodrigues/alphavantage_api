@@ -10,6 +10,10 @@ Last Refreshed
 
 do stock pesquisado.
 
+
+
+![Alt text](/alphavantage_api/resultado-pesquisa.jpg?raw=true "Resultado")
+
 Por hora, somente retorna dados da Bolsa Americana.
 
 OBS: Chave disponibilizada via cadastro.
