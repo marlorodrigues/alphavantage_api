@@ -12,8 +12,6 @@ do stock pesquisado.
 
 Por hora, somente retorna dados da Bolsa Americana.
 
-![ScreenShot](https://postimg.cc/hJZVNrLJ)
-
 OBS: Chave disponibilizada via cadastro.
 
 Referencias:
