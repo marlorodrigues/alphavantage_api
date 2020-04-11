@@ -1,7 +1,7 @@
 //https://www.alphavantage.co/documentation/
 //https://www.reddit.com/r/investimentos/comments/9r3hmo/bovespa_alpha_vantage/
 /*
-    Chave da API 1SYW6ZJK731QKEH3
+    Chave da API 
 
     Time_Series
 
@@ -28,7 +28,7 @@ const ajusteSemanal = "TIME_SERIES_WEEKLY_ADJUSTED";
 const mensal = "MTIME_SERIES_MONTHLY";
 const ajusteMensal = "TIME_SERIES_MONTHLY_ADJUSTED";
 const searchQuote = "SYMBOL_SEARCH";
-const myKey = "1SYW6ZJK731QKEH3"; //Chave de acesso
+const myKey = ""; //Chave de acesso
 
 //Globais
 var final_result = [];
